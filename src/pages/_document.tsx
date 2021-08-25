@@ -13,11 +13,11 @@ class MyDocument extends Document {
           <link
             rel="preload"
             as="style"
-            href="https://fonts.googleapis.com/css2?display=swap&amp;family=Public%20Sans%3Aital%2Cwght%400%2C100..900%3B1%2C100..900&amp;subset=latin%2Clatin-ext"
+            href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap"
           />
           <link
             rel="stylesheet"
-            href="https://fonts.googleapis.com/css2?display=swap&amp;family=Public%20Sans%3Aital%2Cwght%400%2C100..900%3B1%2C100..900&amp;subset=latin%2Clatin-ext"
+            href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap"
             type="text/css"
             media="all"
           />
